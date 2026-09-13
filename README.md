@@ -8,7 +8,7 @@ I worked on an interactive-screen project for a subway passage. There were scree
 
 The problem appeared when the code did not work. I knew that the result was wrong, but I did not know why. I could only tell the AI, “It doesn't work,” and ask it to change the code again. The AI suggested different versions, but I could not tell whether those changes made sense. I was not able to identify the part of the program causing the problem, or to explain precisely what should happen instead.
 
-Eventually, I asked someone else to look at the code. The actual problem was very small: one number was incorrect. It was not a complicated technical failure. However, because I did not understand the logic of the code, I could not find even this small error myself. This experience made me realise that receiving code is not the same as understanding code.
+Eventually, I asked someone else to look at the code. They found that a single number was wrong. The mistake was small, but I had no way to locate it myself: I could see that the interaction failed, yet I could not connect the visible problem to a particular value or condition in the program. That was the moment I understood that using AI to produce code did not give me control over the system.
 
 The problem was not simply that AI was not intelligent enough. The more important problem was that I was treating the code as a black box. I could describe a desired result, but I could not judge how the result was being produced. I could ask AI to make changes, but I could not evaluate whether its answers were reasonable. I had access to a powerful tool, but I did not have enough knowledge to control it.
 
